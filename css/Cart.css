@@ -1,0 +1,86 @@
+.card-text{
+    
+    width: 1200px;
+    height: 47.4vh;
+    
+}
+.card-text-zero{
+    height: 47.4vh;
+}
+
+.card-text-f{
+    
+    width: 1200px;
+    
+    
+}
+
+
+
+.l-a{
+    margin-left: 5%; 
+    color: #000;
+    transition: .4s;
+}
+.l-a:hover{
+    
+    color: #000;
+    transition: .4s;
+}
+.act{
+    background: #ff0000;
+    color: #fff;
+    width: 100%;
+    height: 40px;
+    margin: -10px 0;
+    border-radius: 5px;
+    transition: .4s;
+    display: flex; 
+    justify-content: flex-start;
+    align-items: center;
+}
+.act:hover{
+    background: #ff0000;
+    color: #fff;
+    padding: 0px 0px;
+    border-radius: 5px;
+    transition: .4s;
+}
+.act .l-a{
+    background: #ff0000;
+    color: #fff;
+    
+  
+    transition: .4s;
+}
+.act .l-a:hover{
+    background: #ff0000;
+    color: #fff;
+    transition: .4s;
+}
+.act-li{
+    background: #ff0000;
+    color: #fff;
+    
+    padding: 5px;
+    
+    border-radius: 5px;
+    transition: .4s;
+    display: flex; 
+    justify-content: flex-start;
+    align-items: center;
+}
+.act-li:hover{
+    background: #ff0000;
+    color: #fff;
+    
+    border-radius: 5px;
+    transition: .4s;
+}
+.card-png{
+    background: url(../img/Союзцветторг\ Текстура\ карты\ 1\ 1.png); 
+    background-size: cover; 
+    height: 120px;
+    width: 225px;
+    margin-left: -15px;
+}
