@@ -2,4 +2,4 @@
 
 моя работа
 
-![vid](https://github.com/flower_shop/blob/main/fs.png)
+![Иллюстрация к проекту](https://github.com/SlowUit/flower_shop/blob/main/fs.png)
